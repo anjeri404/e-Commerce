@@ -1,0 +1,34 @@
+.App {
+  text-align: center;
+  width: 100%;
+  height: 215px;
+  margin-top: 20px;
+  border: 2px solid black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  background-color:#ffd5d7;
+}
+.App header {
+  width: 100%;
+  height: 200px;
+  font-weight: bold;
+
+}
+.App header li {
+  padding-left: 10%;
+  padding-right: 10%;
+  display: inline;
+  
+}
+.App h1{
+  width: 100%;
+}
+.App img {
+  height: 100px;
+    width: 100px;
+}
+
+.List {
+  background-color: black;
+  color: pink;
+  display: inline;
+}

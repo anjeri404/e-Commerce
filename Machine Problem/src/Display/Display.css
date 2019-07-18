@@ -1,0 +1,60 @@
+.Products {
+    display: inline-block;
+    margin-left: 10px;
+ }
+.Products li{
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 300px;
+    height: 350px;
+    padding: 2px;
+    border: 1px solid black;
+}
+.Products p {
+    margin: 10px;
+    width: 250px;
+    height: 290px;
+    display:inline-block;
+    background-color: #ffd5d7;
+} 
+.Products button {
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 8px;
+    background-color: #ff9298;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.Display {
+    background-color: #ff9298;
+    border-radius: 20px;
+    cursor: pointer;
+    float:right;
+    padding: 15px;
+    margin-right: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.checkout {
+    background-color:#ffd5d7;
+    border: 2px dotted black;
+    width: 610px;
+    height: 270px;
+    margin-left: 34%;
+    margin-top: 50px;
+    text-align: center;
+    color: black;
+}
+
+.checkout button {
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 10px;
+    margin: 8px;
+    background-color: #ff9298;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+.Products img{
+    height: 210px;
+    width:160px;
+}
